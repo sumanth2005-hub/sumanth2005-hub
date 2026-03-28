@@ -1,9 +1,9 @@
 <div align="center">
 
 # ⚓ Sumanth M B
-### `Java Backend Developer` · `OSS Builder` · `Interview Grinder`
+### `Java Backend Developer` · `Interview Grinder`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Java+Backend+Developer+%F0%9F%92%BB;Spring+Boot+%7C+DSA+%7C+System+Design;Building+in+Public+%F0%9F%94%A5;One+Piece+Fan+%E2%9A%93)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Java+Backend+Developer+%F0%9F%92%BB;Spring+Boot+%7C+DSA+%7C+System+Design;Grind+in+Silence+%F0%9F%94%A5;Let+Success+Make+the+Noise+%E2%9A%93)](https://git.io/typing-svg)
 
 </div>
 
@@ -17,7 +17,7 @@ public class Sumanth {
     String name        = "Sumanth M B";
     String role        = "Java Backend Developer";
     String location    = "Bengaluru, India 🇮🇳";
-    String goal        = "Land a backend engineering role & build impactful OSS";
+    String goal        = "Land a backend engineering role & build impactful projects";
 
     String[] currentlyLearning = {
         "Spring Boot", "DSA (Arrays → Trees → Graphs)",
@@ -29,7 +29,7 @@ public class Sumanth {
         "MySQL", "MongoDB", "REST APIs", "Git"
     };
 
-    String funFact = "I debug code the same way Luffy punches—relentlessly 🥊";
+    String funFact = "I debug code the same way Luffy punches — relentlessly 🥊";
 }
 ```
 
@@ -71,17 +71,6 @@ public class Sumanth {
 
 ---
 
-### 📚 [Library Management System](https://github.com/sumanth2005-hub) *(Coming Soon)*
-> *A Java console app demonstrating OOP, SOLID principles & Design Patterns*
-
-- 🔍 Strategy Pattern for flexible search
-- 🏗️ Clean multi-layer architecture (Service → Repository)
-- 📐 SOLID principles applied throughout
-
-`Java` `OOP` `Design Patterns` `LLD`
-
----
-
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -96,25 +85,9 @@ public class Sumanth {
 
 ---
 
-## 🗺️ Current Roadmap (24-Week Java Backend Plan)
-
-```
-Phase 1 → Java Core + DSA Foundations      ██████████ ✅
-Phase 2 → Spring Boot + REST APIs          ████░░░░░░ 🔄 In Progress
-Phase 3 → Database + JPA/Hibernate         ░░░░░░░░░░ ⏳
-Phase 4 → System Design Basics             ░░░░░░░░░░ ⏳
-Phase 5 → LLD + Design Patterns            ░░░░░░░░░░ ⏳
-Phase 6 → Mock Interviews + Job Apply      ░░░░░░░░░░ ⏳
-```
-
----
-
 ## ⚓ Philosophy
 
-> *"I don't want to conquer anything. I just think the guy with the most freedom in this whole ocean… is the Pirate King!"*
-> — **Monkey D. Luffy**
-
-I build with that same energy. No shortcuts. Just shipping. 🔥
+> *"I don't want to conquer anything. I just think the guy with the most freedom in this whole ocean… is the Pirate King!" — Monkey D. Luffy."*
 
 ---
 
@@ -123,8 +96,8 @@ I build with that same energy. No shortcuts. Just shipping. 🔥
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-sumanth2005--hub-181717?style=for-the-badge&logo=github)](https://github.com/sumanth2005-hub)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sumanth%20M%20B-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sumanth-m-b-3a221a2a3)
+[![Email](https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail)](mailto:sumanthgowdas638@gmail.com)
 
 </div>
 
